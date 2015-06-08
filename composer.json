@@ -1,0 +1,14 @@
+{
+    "name": "draperstudio/laravel-leaderboard",
+    "description": "Points and Ranks for Eloquent models.",
+    "require": {
+        "php": ">=5.5.0",
+        "illuminate/support": "~5.0",
+        "illuminate/database": "~5.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "DraperStudio\\Leaderboard\\": "src/"
+        }
+    }
+}
